@@ -1,0 +1,4 @@
+La edad de cliente es 13
+La patente del vehiculo es HASD23
+La fecha de la venta es 13101988
+El nombre de venta es 1era venta
